@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Hannah! 
 
 📧 Email: [hmk81996@gmail.com](hmk81996@gmail.com)
-💼 LinkedIn: (https://www.linkedin.com/in/hkingrey/)[https://www.linkedin.com/in/hkingrey/]
+💼 LinkedIn: [https://www.linkedin.com/in/hkingrey/](https://www.linkedin.com/in/hkingrey/)
 
 #### Data Analyst | Educator | Lifelong Learner
 With a background in education and a growing expertise in analytics, I enjoy transforming big datasets into clear and compelling narratives using insightful visualizations and statistical evidence. 
