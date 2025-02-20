@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Hannah! 
 
-📧 Email: (hmk81996@gmail.com)[hmk81996@gmail.com]
+📧 Email: [hmk81996@gmail.com](hmk81996@gmail.com)
 💼 LinkedIn: (https://www.linkedin.com/in/hkingrey/)[https://www.linkedin.com/in/hkingrey/]
 
 #### Data Analyst | Educator | Lifelong Learner
