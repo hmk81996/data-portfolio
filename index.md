@@ -31,7 +31,7 @@ With a background in education and a growing expertise in analytics, I enjoy tra
   - **Unsupervised Learning:** Clustering, Elbow Method, KMeans, PCA
  
 ## ⚡ Featured Projects
-Check out my pinned projects below for additional work samples. 
+Check out my projects below or explore more on GitHub!
 
 ### 🚲 Citi Bike Dashboard
 [Tableau Visualization](https://public.tableau.com/app/profile/hannah.miles.kingrey/viz/citibike_analysis_17392480645700/Story1)
