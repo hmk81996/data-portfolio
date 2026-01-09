@@ -7,7 +7,7 @@
 With a background in education and a growing expertise in analytics, I enjoy transforming big datasets into clear and compelling narratives using insightful visualizations and statistical evidence. 
 
 ## 📌 What I'm Doing Now
-- **University of Oregon Data Analytics Boot Camp** *(March 2025)*
+- **Sourcing Analyst** (Contract@Nike)
 - **Seeking data analyst roles** in education and beyond
   
 ## 🧰 My Toolbox
